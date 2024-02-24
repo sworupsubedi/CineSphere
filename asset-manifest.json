@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/CineSphere/static/css/main.244450e1.css",
-    "main.js": "/CineSphere/static/js/main.80bef9dd.js",
+    "main.css": "/CineSphere/static/css/main.3f1de354.css",
+    "main.js": "/CineSphere/static/js/main.cee9223d.js",
     "index.html": "/CineSphere/index.html",
-    "main.244450e1.css.map": "/CineSphere/static/css/main.244450e1.css.map",
-    "main.80bef9dd.js.map": "/CineSphere/static/js/main.80bef9dd.js.map"
+    "main.3f1de354.css.map": "/CineSphere/static/css/main.3f1de354.css.map",
+    "main.cee9223d.js.map": "/CineSphere/static/js/main.cee9223d.js.map"
   },
   "entrypoints": [
-    "static/css/main.244450e1.css",
-    "static/js/main.80bef9dd.js"
+    "static/css/main.3f1de354.css",
+    "static/js/main.cee9223d.js"
   ]
 }
